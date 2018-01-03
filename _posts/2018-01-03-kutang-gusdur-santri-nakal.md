@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KUTANG, SANTRI NAKAL, DAN GUS DUR
+title: Kutang,Santri Nakal,& Gus Dur
 tags: [inspirasi]
 ---
 
