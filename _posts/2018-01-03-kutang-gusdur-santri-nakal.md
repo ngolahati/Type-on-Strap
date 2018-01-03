@@ -1,15 +1,9 @@
 ---
 layout: post
-title: "KUTANG, SANTRI NAKAL, DAN GUS DUR"
-date: 2018-01-03 21:31:05
-description: ""
-main-class: 'cerita'
-color: '#637a91'
-tags:
-twitter_text: "Favicons, touch icons e tile icons..."
-introduction: "Kisah Gus Dur ketika menjadi keamanan di Pondok Pesantren"
-
+title: KUTANG, SANTRI NAKAL, DAN GUS DUR
+tags: [inspirasi]
 ---
+
 
 
 Setelah menempuh pendidikan pesantren di Tegalrejo, Magelang. Gus Dur diminta pamannya Kiai Abdul Fattah Hasyim, untuk membantu mengurus Pondok Pesantren Bahrul Ulum Tambakberas di Jombang pada 1959. Usia Gus Dur saat itu sudah hampir 20 tahun. 
