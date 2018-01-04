@@ -8,9 +8,9 @@ Bila orang miskin sedang belanja di toko parcel maka ia akan minta dibuatkan par
 Bila orang kaya raya sedang belanja di toko parcel maka ia akan minta dibuatkan parcel yang paling murah karena itu akan dihadiahkan ke karyawan-karyawan bawahannya.
 Pertanyaan menariknya adalah:
 
-Siapa yang lebih miskin?
-Siapa yang lebih kaya?
-Siapa yang lebih baik?
+	Siapa yang lebih miskin? 
+    Siapa yang lebih kaya? 
+    Siapa yang lebih baik? 
 
 Begitulah manusia, berpikirnya sering terbalik-balik. Kepada orang yang seharusnya pantas disantuni, justru kita jadi sangat pelit.
 Kepada orang yang berkelimpahan harta, kita justru jadi sangat royal.
