@@ -18,12 +18,9 @@ Kepada orang lemah yang seharusnya kita berlemah lembut kepadanya, justru kepada
 Kepada orang yang sepantasnya kita tegur karena kesombongan dan kejahatannya, justru kita jadi sangat hormat.
 Kepada orang yang setiap hari makan mewah, kita mengundangnya dalam pesta dengan suguhan makanan yang "wah" dan melimpah.
 
-Kepada orang yang hari ini bisa makan dan besok bisa jadi dia lapar, justru kita memberinya makanan sisa yang kita sendiri tidak mau.
-
->"Begitulah kebanyakan manusia. Sering berpikir terbalik-balik."
+Kepada orang yang hari ini bisa makan dan besok bisa jadi dia lapar, justru kita memberinya makanan sisa yang kita sendiri tidak mau. Begitulah kebanyakan manusia. Sering berpikir terbalik-balik.
 
 Saya jadi teringat dengan pesan hati :
-
 >"Bila mau mengukur kebaikan seseorang, lihatlah cara dia memperlakukan orang orang dibawahnya atau orang orang yang tidak memberi keuntungan apapun kepadanya".
 
-Semoga kita bukan termasuk orang yang berpikiran "TERBALIK", dan selalu memperbaiki diri supaya menjadi orang yang lebih baik.
+Semoga kita bukan termasuk orang yang berpikiran *TERBALIK*, dan selalu memperbaiki diri supaya menjadi orang yang lebih baik.
