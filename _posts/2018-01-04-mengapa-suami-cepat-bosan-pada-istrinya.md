@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Mengapa Suami Bosan Pada Istrinya?
+tittle: Mengapa Suami Bosan Pada Istrinya ?
 tag : [inspirasi]
 ---
 
