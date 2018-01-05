@@ -36,6 +36,6 @@ Ibroh dari puasanya ulat :
 ```
 *KESIMPULAN*
 
-`Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).
+`Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).`
 
 
