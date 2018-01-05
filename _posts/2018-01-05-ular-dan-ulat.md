@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Ular Dan Ulat
+title: Ular Dan Ulat
 tag : [renungan]
 ---
 
