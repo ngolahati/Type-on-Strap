@@ -4,14 +4,18 @@ tittle: Ular Dan Ulat
 tag : [renungan]
 ---
 
-<div style="text-align: justify">Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya.</div>
+<div style="text-align: justify">
+Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya.
+</div>
 
-<div style="text-align: justify">Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya **ULAR** dan puasanya **ULAT**.</div>
-
-
+<div style="text-align: justify">
+Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya ULAR dan puasanya ULAT.
+</div>
 
 PUASA ULAR
-<div style="text-align: justify">Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan adalah harus mengganti kulitnya secara berkala. Tidak serta merta ular bisa menanggalkan kulit lama. Ia harus BERPUASA tanpa makan dalam kurun waktu tertentu. Setelah PUASANYA TUNTAS kulit luar terlepas dan muncullah kulit baru.</div>
+<div style="text-align: justify">
+Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan adalah harus mengganti kulitnya secara berkala. Tidak serta merta ular bisa menanggalkan kulit lama. Ia harus BERPUASA tanpa makan dalam kurun waktu tertentu. Setelah PUASANYA TUNTAS kulit luar terlepas dan muncullah kulit baru.
+</div>
 
 
 Ibroh dari puasanya ular :
