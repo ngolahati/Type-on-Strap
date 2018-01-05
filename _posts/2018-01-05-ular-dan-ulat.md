@@ -4,7 +4,7 @@ tittle: Ular Dan Ulat
 tag : [renungan]
 ---
 
-
+<div style="text-align: justify">
 Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya. Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya ULAR dan puasanya ULAT.
 
 **PUASA ULAR**
@@ -35,5 +35,6 @@ Ibroh dari puasanya ulat :
 5. TABIAT dan SIFAT berubah total. Ketika masih jadi ulat menjadi perusak alam pemakan daun. Begitu menjadi kupu-kupu menghidupkan dan membantu kelangsungan kehidupan tumbuhan dengan cara membantu PENYERBUKAN BUNGA.
 ```
 KESIMPULAN
-`Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).`
+`Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).
+</div>
 
