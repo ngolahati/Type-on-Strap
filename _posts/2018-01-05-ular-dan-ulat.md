@@ -11,7 +11,6 @@ Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmi
 PUASA ULAR
 
 Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan adalah harus mengganti kulitnya secara berkala. Tidak serta merta ular bisa menanggalkan kulit lama. Ia harus BERPUASA tanpa makan dalam kurun waktu tertentu. Setelah PUASANYA TUNTAS kulit luar terlepas dan muncullah kulit baru.
-</div>
 
 Ibroh dari puasanya ular :
 
@@ -24,9 +23,9 @@ Ibroh dari puasanya ular :
 ```
 
 PUASA ULAT
-<div style="text-align: justify">
+
 Ulat termasuk hewan paling rakus. Karena hampir sepanjang waktunya dihabiskan untuk makan. Tapi begitu sudah bosan makan, ia lakukan perubahan dengan cara berpuasa. Puasa yang benar-benar dipersiapkan untuk mengubah kualitas hidupnya. Karenanya ia asingkan diri, badannya dibungkus rapat dan tertutup dalam kokon (kepompong) sehingga tak mungkin lagi melampiaskan hawa nafsu makannya. Setelah berminggu-minggu puasa, maka keluarlah dari kokon seekor makhluk baru yang sangat indah bernama KUPU-KUPU.
-</div>
+
 
 Ibroh dari puasanya ulat :
 ```
@@ -38,3 +37,4 @@ Ibroh dari puasanya ulat :
 ```
 KESIMPULAN
 `Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).`
+</div>
