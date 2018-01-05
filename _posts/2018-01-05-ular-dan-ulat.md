@@ -34,7 +34,8 @@ Ibroh dari puasanya ulat :
 4. CARA BERGERAK ketika masih jadi ulat menjalar, setelah puasa  berubah TERBANG di awang-awang.
 5. TABIAT dan SIFAT berubah total. Ketika masih jadi ulat menjadi perusak alam pemakan daun. Begitu menjadi kupu-kupu menghidupkan dan membantu kelangsungan kehidupan tumbuhan dengan cara membantu PENYERBUKAN BUNGA.
 ```
-KESIMPULAN
+*KESIMPULAN*
+
 `Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).
 
 
