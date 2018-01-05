@@ -1,6 +1,6 @@
 ---
 layout: post
-tittle: Ular dan Ulat
+tittle: Ular Dan Ulat
 tag : [inspirasi]
 ---
 
@@ -10,7 +10,7 @@ tag : [inspirasi]
 
 
 
-**PUASA ULAR**
+[b]PUASA ULAR[/b]
 <div style="text-align: justify">Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan adalah harus mengganti kulitnya secara berkala. Tidak serta merta ular bisa menanggalkan kulit lama. Ia harus BERPUASA tanpa makan dalam kurun waktu tertentu. Setelah PUASANYA TUNTAS kulit luar terlepas dan muncullah kulit baru.</div>
 
 
