@@ -4,11 +4,10 @@ tittle: Ular Dan Ulat
 tag : [renungan]
 ---
 
-<div style="text-align: justify">
-Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya. Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya ULAR dan puasanya ULAT.
+
+Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya. Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya **ULAR** dan puasanya **ULAT**.
 
 **PUASA ULAR**
-
 Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan adalah harus mengganti kulitnya secara berkala. Tidak serta merta ular bisa menanggalkan kulit lama. Ia harus BERPUASA tanpa makan dalam kurun waktu tertentu. Setelah PUASANYA TUNTAS kulit luar terlepas dan muncullah kulit baru.
 
 Ibroh dari puasanya ular :
@@ -22,7 +21,6 @@ Ibroh dari puasanya ular :
 ```
 
 **PUASA ULAT**
-
 Ulat termasuk hewan paling rakus. Karena hampir sepanjang waktunya dihabiskan untuk makan. Tapi begitu sudah bosan makan, ia lakukan perubahan dengan cara berpuasa. Puasa yang benar-benar dipersiapkan untuk mengubah kualitas hidupnya. Karenanya ia asingkan diri, badannya dibungkus rapat dan tertutup dalam kokon (kepompong) sehingga tak mungkin lagi melampiaskan hawa nafsu makannya. Setelah berminggu-minggu puasa, maka keluarlah dari kokon seekor makhluk baru yang sangat indah bernama KUPU-KUPU.
 
 
@@ -36,5 +34,5 @@ Ibroh dari puasanya ulat :
 ```
 KESIMPULAN
 `Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).
-</div>
+
 
