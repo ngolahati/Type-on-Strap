@@ -1,7 +1,7 @@
 ---
 layout: post
 tittle: Ular Dan Ulat
-tag : [inspirasi]
+tag : [renungan]
 ---
 
 <div style="text-align: justify">Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya.</div>
