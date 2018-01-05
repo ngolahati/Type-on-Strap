@@ -5,11 +5,7 @@ tag : [renungan]
 ---
 
 <div style="text-align: justify">
-Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya.
-</div>
-
-<div style="text-align: justify">
-Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya ULAR dan puasanya ULAT.</div>
+Secara sunnatulloh, puasa sesungguhnya tidak hanya diwajibkan kepada orang mukmin saja. Beberapa jenis makhluk hidup juga melakukan berpuasa sebelum mendapatkan kualitas dan kelangsungan hidupnya. Banyak contoh, misalnya puasanya induk ayam yang mengeram sehingga mengubah telur menjadi makhluk baru yang berbeda bentuk yang disebut anak ayam.Di antara sekian banyak puasa hewan yang dapat kita ambil pelajaran agar puasa kita mencapai derajat taqwa, ialah puasanya ULAR dan puasanya ULAT.</div>
 
 
 PUASA ULAR
