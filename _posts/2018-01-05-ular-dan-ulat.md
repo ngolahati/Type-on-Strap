@@ -13,13 +13,12 @@ Agar ular mampu menjaga kelangsungan hidupnya, salah satu yang harus dilakukan a
 
 Ibroh dari puasanya ular :
 
-```
 1. WAJAH ular sebelum dan sesudah puasa tetap SAMA.
 2. NAMA ular sebelum dan sesudah puasa tetap sama yakni ULAR.
 3. MAKANAN ular sebelum dan sesudah puasa tetap SAMA.
 4. CARA BERGERAK sebelum dan sesudah puasa tetap SAMA.
 5. TABIAT dan SIFAT sebelum dan sesudah puasa tetap SAMA.
-```
+
 
 **PUASA ULAT**
 
@@ -27,13 +26,13 @@ Ulat termasuk hewan paling rakus. Karena hampir sepanjang waktunya dihabiskan un
 
 
 Ibroh dari puasanya ulat :
-```
+
 1. WAJAH ulat sesudah puasa berubah INDAH MEMPESONA.
 2. NAMA ulat sesudah puasa berubah menjadi KUPU-KUPU.
 3. MAKANAN ulat sesudah puasa berubah MENGISAP MADU.
 4. CARA BERGERAK ketika masih jadi ulat menjalar, setelah puasa  berubah TERBANG di awang-awang.
 5. TABIAT dan SIFAT berubah total. Ketika masih jadi ulat menjadi perusak alam pemakan daun. Begitu menjadi kupu-kupu menghidupkan dan membantu kelangsungan kehidupan tumbuhan dengan cara membantu PENYERBUKAN BUNGA.
-```
+
 *KESIMPULAN*
 
 >Puasa seharusnya mampu menghijrahkan diri kita agar semakin taqwa dan mampu menjadi "khoirunnas anfauhum linnas" (sebaik-baik manusia ialah yang dapat memberikan manfaat bagi manusia lainnya).
