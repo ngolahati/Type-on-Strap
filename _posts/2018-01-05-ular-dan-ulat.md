@@ -29,13 +29,13 @@ Ulat termasuk hewan paling rakus. Karena hampir sepanjang waktunya dihabiskan un
 
 Ibroh dari puasanya ulat :
 
-```
+`
 1. WAJAH ulat sesudah puasa berubah INDAH MEMPESONA.
 2. NAMA ulat sesudah puasa berubah menjadi KUPU-KUPU.
 3. MAKANAN ulat sesudah puasa berubah MENGISAP MADU.
 4. CARA BERGERAK ketika masih jadi ulat menjalar, setelah puasa  berubah TERBANG di awang-awang.
 5. TABIAT dan SIFAT berubah total. Ketika masih jadi ulat menjadi perusak alam pemakan daun. Begitu menjadi kupu-kupu menghidupkan dan membantu kelangsungan kehidupan tumbuhan dengan cara membantu PENYERBUKAN BUNGA.
-```
+`
 
 **KESIMPULAN**
 
