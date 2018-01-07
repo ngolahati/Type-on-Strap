@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiga Kesalahan Karena Buruk Sangka (*Su'udzh dzhon*)
+title: Tiga Kesalahan Karena Buruk Sangka
 tags: [inspirasi]
 ---
 
